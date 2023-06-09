@@ -1,0 +1,5 @@
+data/model/RF_model.pkl filter=lfs diff=lfs merge=lfs -text
+data/2020/hourly_81102_2020.csv filter=lfs diff=lfs merge=lfs -text
+data/2021/hourly_81102_2021.csv filter=lfs diff=lfs merge=lfs -text
+data/2022/hourly_81102_2022.csv filter=lfs diff=lfs merge=lfs -text
+data/2019/hourly_81102_2019.csv filter=lfs diff=lfs merge=lfs -text
